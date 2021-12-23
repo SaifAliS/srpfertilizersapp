@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: HomeScreen(),
         appBar: AppBar(
-          title: Text("Poornapp"),
+          title: Text("అగ్రి దిశ"),
           centerTitle: true,
         ),
       ),
